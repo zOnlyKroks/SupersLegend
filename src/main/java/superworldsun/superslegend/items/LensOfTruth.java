@@ -179,7 +179,7 @@ public class LensOfTruth extends Item
 		for (MobEntity entitymob : list)
 		{
 			//Mobs being Picked
-			if (entitymob != null)
+			if (entitymob instanceof Entity)
 			{
 				closestMob = entitymob;
 				return closestMob;
