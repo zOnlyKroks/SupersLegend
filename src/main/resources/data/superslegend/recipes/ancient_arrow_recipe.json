@@ -10,10 +10,10 @@
             "item": "minecraft:redstone"
         },
         "i": {
-            "item": "minecraft:iron_ingot"
+            "item": "superslegend:ancient_screw"
         },
         "D": {
-            "item": "minecraft:diamond"
+            "item": "superslegend:ancient_core"
         },
         "A": {
             "item": "minecraft:arrow"
